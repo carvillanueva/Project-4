@@ -1,0 +1,18 @@
+// 5 COLOR VARIATIONS
+$main-color: #58e1c1;
+$main-color-lighten: lighten($main-color, 15%);
+
+$shade-of-grey-text: #777;
+
+$white: #fff;
+
+$shade-of-red: #88252a;
+$shade-of-red-lighten: lighten($shade-of-red, 15%);
+
+$shade-of-purple: #927bc1;
+$shade-of-purple-lighten: lighten($shade-of-purple, 15%);
+
+
+// 1 MEDIA QUERY BREAKPOINT
+$media-medium-size: 768px; 
+
